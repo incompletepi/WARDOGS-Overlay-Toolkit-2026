@@ -285,4 +285,3 @@ WARDOGS names and official game imagery belong to their respective owners.
 **WARDOGS Mod Menu** • WARDOGS External Menu • WARDOGS Overlay • WARDOGS Player Info • WARDOGS Squad Info • WARDOGS Vehicles • WARDOGS Logistics • WARDOGS Control Zone • WARDOGS Map Tools • WARDOGS Profiles • Tactical FPS • Combined Arms • Windows Game Utility
 
 </details>
-                                                                                                    
